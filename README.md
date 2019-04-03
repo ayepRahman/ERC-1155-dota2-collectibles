@@ -4,10 +4,10 @@ This is a work-in-progress implementation of ERC-1155 based on the discussions i
 
 ## Motivation
 
-I'am an avid gamer who love playing dota2 and buying their items on marketplace. The issues i find, it a challenge to invest and liquidify my digital asset.
-DApp like cryptokitties inspire me to create this simple project. Here i want to create a simple project that lets ANY users (for now) to create a non-fungible-token
-using the new ERC1155. User will need to install metamask to use this project for signing a transaction. User will be able to see the list of newly create NFT items.
-They will also able to buy item on the platform.
+I'm an avid gamer who love playing dota2 and buying their items on the marketplace. The issues I find, it a challenge to invest and liquidity my digital asset.
+DApp like cryptokitties inspire me to create this simple project. Here I want to create a simple project that lets ANY users (for now) to create a non-fungible-token
+using the new ERC1155. The user will need to install metamask to use this project for signing a transaction. The user will be able to see the list of newly create NFT items.
+They will also able to buy an item on the platform.
 
 ## ERC-1155 Metadata URI JSON Schema
 
