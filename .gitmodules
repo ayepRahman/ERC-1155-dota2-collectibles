@@ -1,3 +1,3 @@
 [submodule "client"]
-	path = client/
+	path = /client
 	url = https://github.com/ayepRahman/ERC-1155-dota2-collectibles.git
