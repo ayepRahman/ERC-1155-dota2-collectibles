@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "multi-token-standard": "^0.4.2"
+  },
+  "name": "erc-1155-dota2-collectibles",
+  "description": "This is a work-in-progress implementation of ERC-1155 based on the discussions in the [EIP-1155 issue thread.](https://github.com/ethereum/EIPs/issues/1155)",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayepRahman/ERC-1155-dota2-collectibles.git"
+  },
+  "author": "ayepRahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayepRahman/ERC-1155-dota2-collectibles/issues"
+  },
+  "homepage": "https://github.com/ayepRahman/ERC-1155-dota2-collectibles#readme"
+}
