@@ -1,9 +1,10 @@
 pragma solidity >=0.5.0 <0.6.0;
 
-import 'multi-token-standard/contracts/tokens/ERC1155/ERC1155.sol';
+import "../lib/ERC1155.sol";
+import "../lib/ERC1155Mintable.sol";
 
 // we can do multiple extend with a coma is ERC1155, ERC1155TokenReceiver
-contract Dota2Collectibles is ERC1155 {
+contract Dota2Collectibles is ERC1155, ERC1155Mintable{
   address public owner;
 
   // TODO:
